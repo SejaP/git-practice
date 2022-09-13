@@ -48,13 +48,13 @@ We want these facts to be different from the previous person to create conflicts
 
 # Edit This
 
-The most recent person to merge into main is Jon Leslie 
 
-* His favourite sport is ice hockey.
-* He is from the United States.
-* He likes to go cycling.
-* He used to work in a butcher shop and was able to bone and skin a chicken
-  breast in under 2 1/2 minutes...both sides!
-* He loves Mexican food.
+
+The most recent person to merge into main is Patricia Seja 
+
+* I have a pet sourdough named Molly.
+* Music makes everything better. Dancing is a prime example.
+* I hate running but love cycling.
+* In my spare free time I try to tame my three underaged beasts. 
 
 **NOTE - Please try add different types of facts than the previous person has added**
